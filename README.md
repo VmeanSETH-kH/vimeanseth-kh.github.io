@@ -1,3 +1,3 @@
 # Welcome to VmeansSETH KH pages
 
-URL to my Portfolio: https://vimeanseththorng.github.io/ 
+[URL to my Portfolio](https://vimeanseththorng.github.io/) 
